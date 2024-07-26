@@ -20,11 +20,39 @@ const info = {
     // ============ PROJECTS ============
     projects: [
         {
+			title: "EMI-CALCULATOR",
+			description:"An EMI calculator computes monthly payments for loans based on total cost, interest rate, tenure, and down payment.",
+            technologies: "React",
+			github: "https://github.com/shubhampandharpatte/EMI-CALCULATOR",
+            link: "https://emi-calculator-indol.vercel.app/"
+		},
+        {
 			title: "Todo-App",
 			description: "A Personal Todo app enabling task management with features to toggle, remove, mark as completed, and mark as incomplete.",
             technologies: "React, Tailwind, Redux",
 			github: "hhttps://github.com/shubhampandharpatte/Todo_APP",
             link: "https://todo-app-five-woad-43.vercel.app/"
+		},
+        {
+			title: "My-Portfolio",
+			description:"My portfolio showcases my skills as a developer, crafting seamless, responsive, and user-friendly applications.",
+            technologies: "React, Tailwind, Context",
+			github: "https://github.com/shubhampandharpatte/Portfolio1",
+            link: "https://myportfolio-shubhams-projects-797b350e.vercel.app/"
+		},
+        {
+			title: "VOIS_Project",
+			description:"Stores Data Analysis using EDA",
+            technologies: "Python, matplotlib, Numpy, Seaborn",
+			github: "https://github.com/shubhampandharpatte/VOIS_PROJECT",
+            link: "https://github.com/shubhampandharpatte/VOIS_PROJECT"
+		},
+        {
+			title: "Covid-19-Death-Rate-Analysis",
+			description:"Uses dataset for the death rate analysis",
+            technologies: "Python, matplotlib, Numpy, Seaborn",
+			github: "https://github.com/shubhampandharpatte/Covid-19-Death-Rate-Analysis",
+            link: "https://github.com/shubhampandharpatte/Covid-19-Death-Rate-Analysis"
 		},
 
         
