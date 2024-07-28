@@ -34,6 +34,34 @@ const info = {
             link: "https://todo-app-five-woad-43.vercel.app/"
 		},
         {
+			title: "QUIZ-APP",
+            description:"A dynamic quiz app offering interactive multiple-choice questions, real-time scoring, and instant feedback to enhance learning and engagement.",
+            technologies: "React",
+			github: "https://github.com/shubhampandharpatte/QUIZ-APP",
+            link: "https://quiz-app-neon-six.vercel.app/"
+		},
+        {
+        	title: "DICTIONARY-APP",
+            description:"A dictionary app for instant word definitions, phonetic pronunciation, synonyms, and example usage. Easily switch between light and dark themes",
+            technologies: "React",
+			github: "https://github.com/shubhampandharpatte/DICTIONARY-APP",
+            link: "https://dictionary-app-self-three.vercel.app/"
+		},
+        {
+        	title: "JobBoard Explorer",
+            description:"Browse job postings with categories and pagination. Easily filter by job type and navigate through listings with ease.",
+            technologies: "React",
+			github: "https://github.com/shubhampandharpatte/JobBoard-Explorer",
+            link: "https://job-board-explorer.vercel.app/"
+		},
+        {
+        	title: "Weather-App",
+            description:"A sleek weather app providing real-time updates with animations, elegant design, and user-friendly interface for accurate climate information.",
+            technologies: "React",
+			github: "https://github.com/shubhampandharpatte/Weather-app",
+            link: "https://weather-app-sigma-flame.vercel.app/"
+		},
+        {
 			title: "My-Portfolio",
 			description:"My portfolio showcases my skills as a developer, crafting seamless, responsive, and user-friendly applications.",
             technologies: "React, Tailwind, Context",
