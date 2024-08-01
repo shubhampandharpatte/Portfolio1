@@ -20,6 +20,27 @@ const info = {
     // ============ PROJECTS ============
     projects: [
         {
+			title: "Mine-game",
+			description:"An engaging mine-sweeping game with adjustable difficulty, animations, and vibrant visuals, designed for a captivating user experience.",
+            technologies: "React",
+			github: "https://github.com/shubhampandharpatte/Mine-game",
+            link: "https://mine-game-eight.vercel.app/",
+        },
+        {
+			title: "Crypto-currency-tracker",
+			description:"CryptoTracker: A sleek and responsive web app to search, track, and monitor real-time cryptocurrency market data and trends.",
+            technologies: "React",
+			github: "https://github.com/shubhampandharpatte/Crypto-currency-tracker",
+            link: "https://crypto-currency-tracker-blush.vercel.app/",
+        },
+        {
+			title: "Candy-crush-game",
+			description:"A fun candy-matching game featuring smooth image swaps, animations, a scoreboard, and a game timer for an engaging experience.",
+            technologies: "React",
+			github: "https://github.com/shubhampandharpatte/Candy-crush-game",
+            link: "https://candy-crush-game-jade.vercel.app/",
+        },
+        {
 			title: "EMI-CALCULATOR",
 			description:"An EMI calculator computes monthly payments for loans based on total cost, interest rate, tenure, and down payment.",
             technologies: "React",
@@ -82,7 +103,7 @@ const info = {
 			github: "https://github.com/shubhampandharpatte/Covid-19-Death-Rate-Analysis",
             link: "https://github.com/shubhampandharpatte/Covid-19-Death-Rate-Analysis"
 		},
-
+        
         
     ],
 
